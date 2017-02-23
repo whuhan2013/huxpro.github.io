@@ -1,8 +1,8 @@
 ---
-layout: default
-title: "Archive"
-description: "你看到的，是我的所有文章"
-header-img: "img/4.jpg"
+title: Tags
+layout: archieve
+description: keep hungry keep foolish
+header-img: "img/tag-bg.jpg"
 ---
 
 
